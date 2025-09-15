@@ -1314,18 +1314,6 @@ p {
     animation: sectionDataReceive var(--data-receive-duration) ease-in-out infinite;
 }
 
-/* Interests Section Animations */
-.interests-data-source-box::after {
-    animation: dataPulse var(--pulse-duration) ease-in-out infinite;
-}
-
-.interests-data-source-box::before {
-    animation: linePulse var(--pulse-duration) ease-in-out infinite;
-}
-
-.interests-content {
-    animation: sectionDataReceive var(--data-receive-duration) ease-in-out infinite;
-}
 
 /* Section content containers - similar to hero-content */
 .section-content-container {
